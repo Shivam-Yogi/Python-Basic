@@ -1,0 +1,17 @@
+1. https://www.tutorialspoint.com/python/python_functions.htm
+
+2. https://www.geeksforgeeks.org/functions-in-python/
+
+3. https://www.programiz.com/python-programming/function
+
+4. https://www.learnpython.org/en/Functions
+
+5. https://www.geeksforgeeks.org/args-kwargs-python/
+
+6. https://www.w3schools.com/python/python_lambda.asp
+
+7. https://www.geeksforgeeks.org/python-lambda-anonymous-functions-filter-map-reduce/
+
+8. https://www.guru99.com/python-lambda-function.html
+
+9. https://realpython.com/python-lambda/

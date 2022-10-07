@@ -1,0 +1,15 @@
+1. https://www.geeksforgeeks.org/file-handling-python/
+
+2. https://www.w3schools.com/python/python_file_handling.asp
+
+3. https://www.guru99.com/reading-and-writing-files-in-python.html
+
+4. https://www.programiz.com/python-programming/file-operation
+
+5. https://www.pythonforbeginners.com/cheatsheet/python-file-handling
+
+6. https://www.tutorialspoint.com/python/python_files_io.htm
+
+7. https://www.w3schools.in/python-tutorial/file-handling/
+
+8. https://www.javatpoint.com/python-files-io

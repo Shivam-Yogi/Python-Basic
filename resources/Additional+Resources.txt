@@ -1,0 +1,7 @@
+1. https://www.programiz.com/python-programming/numbers
+
+2. https://www.tutorialspoint.com/python/python_numbers.htm
+
+3. https://docs.python.org/2.4/lib/typesnumeric.html
+
+4. https://www.geeksforgeeks.org/float-in-python/

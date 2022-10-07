@@ -1,0 +1,9 @@
+1. https://www.digitalocean.com/community/tutorials/understanding-list-comprehensions-in-python-3
+
+2. https://www.programiz.com/python-programming/list-comprehension
+
+3. https://python-3-patterns-idioms-test.readthedocs.io/en/latest/Comprehensions.html
+
+4. https://realpython.com/list-comprehension-python/
+
+5. https://www.geeksforgeeks.org/random-numbers-in-python/

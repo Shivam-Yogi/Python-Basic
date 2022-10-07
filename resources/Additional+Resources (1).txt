@@ -1,0 +1,9 @@
+1. https://www.w3schools.com/python/python_datatypes.asp
+
+2. https://realpython.com/python-data-types/
+
+3. https://www.javatpoint.com/python-data-types
+
+4. https://www.journaldev.com/14036/python-data-types
+
+5. https://www.geeksforgeeks.org/python-data-types/

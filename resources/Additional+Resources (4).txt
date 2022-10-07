@@ -1,0 +1,7 @@
+1. https://www.tutorialspoint.com/python/python_tuples.htm
+
+2. https://www.w3schools.com/python/python_tuples.asp
+
+3. https://www.geeksforgeeks.org/tuples-in-python/
+
+4. https://www.programiz.com/python-programming/tuple

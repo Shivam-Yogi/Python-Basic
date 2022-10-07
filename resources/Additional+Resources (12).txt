@@ -1,0 +1,9 @@
+1. https://docs.python.org/3/library/random.html
+
+2. https://www.w3schools.com/python/module_random.asp
+
+3. https://www.tutorialsteacher.com/python/random-module
+
+4. https://www.geeksforgeeks.org/random-numbers-in-python/
+
+5. https://www.pythonforbeginners.com/random/how-to-use-the-random-module-in-python

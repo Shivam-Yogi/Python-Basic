@@ -1,0 +1,9 @@
+1. https://data36.com/python-built-in-functions-methods-python-data-science-basics-3/
+
+2. https://www.freecodecamp.org/news/an-a-z-of-useful-python-tricks-b467524ee747/
+
+3. https://towardsdatascience.com/four-useful-functions-for-exploring-data-in-python-33b53288cdd8
+
+4. https://www.w3schools.com/python/python_ref_functions.asp
+
+5. https://www.programiz.com/python-programming/methods/built-in

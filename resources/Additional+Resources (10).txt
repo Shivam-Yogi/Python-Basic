@@ -1,0 +1,9 @@
+1. https://www.w3schools.com/python/python_for_loops.asp
+
+2. https://www.learnpython.org/en/Loops
+
+3. https://www.geeksforgeeks.org/loops-in-python/
+
+4. https://www.tutorialspoint.com/python/python_loops.htm
+
+5. https://www.programiz.com/python-programming/for-loop

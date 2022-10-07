@@ -1,0 +1,9 @@
+1. https://www.w3schools.com/python/python_dictionaries.asp
+
+2. https://www.geeksforgeeks.org/python-dictionary/
+
+3. https://realpython.com/python-dicts/
+
+4. https://www.programiz.com/python-programming/dictionary
+
+5. https://www.tutorialspoint.com/python/python_dictionary.htm

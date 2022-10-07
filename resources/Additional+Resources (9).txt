@@ -1,0 +1,9 @@
+1. https://www.guru99.com/if-loop-python-conditional-structures.html
+
+2. https://realpython.com/python-conditional-statements/
+
+3. https://www.w3schools.com/python/python_conditions.asp
+
+4. https://www.softwaretestinghelp.com/python/python-conditional-statements/
+
+5. https://www.softwaretestinghelp.com/python/python-conditional-statements/

@@ -1,0 +1,9 @@
+1. https://www.python-course.eu/python3_formatted_output.php
+
+2. https://www.geeksforgeeks.org/precision-handling-python/
+
+3. https://www.geeksforgeeks.org/python-output-formatting/
+
+4. https://stackoverflow.com/questions/455612/limiting-floats-to-two-decimal-points
+
+5. https://pyformat.info/

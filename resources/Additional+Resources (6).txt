@@ -1,0 +1,9 @@
+1. https://www.w3schools.com/python/python_sets.asp
+
+2. https://www.geeksforgeeks.org/sets-in-python/
+
+3. https://docs.python.org/2/library/sets.html
+
+4. https://realpython.com/python-sets/
+
+5. https://www.programiz.com/python-programming/set

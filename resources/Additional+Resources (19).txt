@@ -1,0 +1,10 @@
+1. https://www.geeksforgeeks.org/python-set-5-exception-handling/
+
+2. https://docs.python.org/3/tutorial/errors.html
+
+3. https://www.programiz.com/python-programming/exception-handling
+
+4. https://www.w3schools.com/python/python_try_except.asp
+
+5. https://www.pythonforbeginners.com/error-handling/exception-handling-in-python
+

@@ -1,0 +1,9 @@
+1. https://www.w3schools.com/python/python_operators.asp
+
+2. https://data-flair.training/blogs/python-comparison-operators/
+
+3. https://www.tutorialspoint.com/python/python_basic_operators.htm
+
+4. https://www.guru99.com/python-operators-complete-tutorial.html
+
+5. https://www.programiz.com/python-programming/operators

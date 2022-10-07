@@ -1,0 +1,28 @@
+1. https://pypi.org/project/pypi-install/
+
+2. https://pypi.org/project/pip/
+
+3. https://www.pythonforbeginners.com/basics/how-to-use-pip-and-pypi
+
+4. https://packaging.python.org/tutorials/installing-packages/
+
+5. https://www.learnpython.org/en/Modules_and_Packages
+
+6. https://realpython.com/python-modules-packages/
+
+7. https://www.tutorialspoint.com/python/python_modules.htm
+
+8. https://docs.python.org/3/tutorial/modules.html
+
+9. https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/
+
+10. https://www.geeksforgeeks.org/__name__-special-variable-python/
+
+11. https://thepythonguru.com/what-is-if-__name__-__main__/
+
+12. https://docs.python.org/3/library/__main__.html
+
+13. https://stackoverflow.com/questions/419163/what-does-if-name-main-do
+
+14. https://docs.python.org/3/tutorial/modules.html
+

@@ -1,0 +1,7 @@
+1. https://www.w3schools.com/python/ref_keyword_none.asp
+
+2. https://docs.python.org/2.4/lib/truth.html
+
+3. https://amir.rachum.com/blog/2012/08/25/you-cant-handle-the-truth/
+
+4. https://stackoverflow.com/questions/3914667/false-or-none-vs-none-or-false

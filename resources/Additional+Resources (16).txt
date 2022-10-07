@@ -1,0 +1,17 @@
+1. https://www.programiz.com/python-programming/object-oriented-programming
+
+2. https://www.geeksforgeeks.org/object-oriented-programming-in-python-set-1-class-and-its-members/
+
+3. https://realpython.com/python3-object-oriented-programming/
+
+4. https://www.javatpoint.com/python-oops-concepts
+
+5. https://www.guru99.com/python-class-objects-object-oriented-programming-oop-s.html
+
+6. https://www.tutorialspoint.com/python/python_classes_objects.htm
+
+7. https://www.tutorialsteacher.com/python/magic-methods-in-python
+
+8. https://www.python-course.eu/python3_magic_methods.php
+
+9. https://rszalski.github.io/magicmethods/
